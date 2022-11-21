@@ -1,5 +1,5 @@
 package AplicativoUber;
-
+//DUPLA: João Pedro Padilha e José Augusto
 public class UberTeste {
     public static void main(String[] args){ 
         Passageiro p = new Passageiro();
